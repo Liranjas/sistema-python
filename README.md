@@ -1,8 +1,8 @@
-#Trabalho – Sistema de Gerenciamento de Tarefas
+# Trabalho – Sistema de Gerenciamento de Tarefas
 ##Descrição
   Trabalho individual ou em duplas cujo objetivo é desenvolver um programa em Python que permita aos usuários criar, visualizar, atualizar, marcar como concluídas e excluir tarefas de uma lista de afazeres.
 
-##O sistema deve possuir as seguintes características:
+## O sistema deve possuir as seguintes características:
 
 1. Adição de tarefas: os usuários devem ser capazes de adicionar novas tarefas a uma lista de afazeres.
 Cada tarefa deve conter um identificador – um número tal que não existam tarefas diferentes com o mesmo identificador, uma descrição, um tempo limite (em horas) para ser realizada e uma situação (concluída ou ativa).
