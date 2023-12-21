@@ -1,5 +1,6 @@
 # Trabalho – Sistema de Gerenciamento de Tarefas
 ## Descrição
+  (ENG) Simple task management system in python 
   Trabalho individual ou em duplas cujo objetivo é desenvolver um programa em Python que permita aos usuários criar, visualizar, atualizar, marcar como concluídas e excluir tarefas de uma lista de afazeres.
 
 ## O sistema deve possuir as seguintes características:
