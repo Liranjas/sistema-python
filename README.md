@@ -25,13 +25,9 @@ Algorithm class assignment with the objective of developing a Python program tha
 ## The system must have the following characteristics:
 
 1. Adding tasks: users must be able to add new tasks to a to-do list.
-
 Each task must contain an identifier – a number such that there are no different tasks with the same identifier, a description, a time limit (in hours) to be completed and a status (completed or active).
-
 Every new task, when registered by the user, has an active status.
-
 2. Viewing tasks: users can view all tasks present in the list, only active tasks, or only completed tasks.
-
 Regardless of the type of view chosen, all the characteristics of each task must be presented in a clear and organized manner.
 Bonus – task priority: when viewing tasks, the system should display active tasks first (before completed ones) and, among active tasks, the system should display them in ascending order by task time limit. This functionality/ordering should be applied both to viewing all tasks and to viewing only active tasks.
 3. Update tasks: users can change the data of a task, with the exception of its identifier.
