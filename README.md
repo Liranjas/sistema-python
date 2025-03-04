@@ -1,4 +1,4 @@
-# Trabalho – Sistema de Gerenciamento de Tarefas
+# (POR) Trabalho – Sistema de Gerenciamento de Tarefas
 ## Descrição
   
   Trabalho da disciplina de algoritmos cujo objetivo é desenvolver um programa em Python que permita aos usuários criar, visualizar, atualizar, marcar como concluídas e excluir tarefas de uma lista de afazeres.
@@ -17,10 +17,8 @@ Bônus – prioridade de tarefas: ao visualizar as tarefas, o sistema deve apres
 6. Menu de opções: o sistema deve interagir com o usuário através de um menu de opções para facilitar a sua usabilidade.
 
 
-(ENG)
-# Task Management System
+# (ENG) Task Management System
 ## Description
-(ENG) Simple task management system in python
 
 Algorithm class assignment with the objective of developing a Python program that allows users to create, view, update, mark as completed, and delete tasks from a to-do list.
 
