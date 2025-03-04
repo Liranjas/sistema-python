@@ -1,8 +1,7 @@
 # Trabalho – Sistema de Gerenciamento de Tarefas
 ## Descrição
-  (ENG) Simple task management system in python
   
-  Trabalho individual ou em duplas cujo objetivo é desenvolver um programa em Python que permita aos usuários criar, visualizar, atualizar, marcar como concluídas e excluir tarefas de uma lista de afazeres.
+  Trabalho da disciplina de algoritmos cujo objetivo é desenvolver um programa em Python que permita aos usuários criar, visualizar, atualizar, marcar como concluídas e excluir tarefas de uma lista de afazeres.
 
 ## O sistema deve possuir as seguintes características:
 
@@ -16,5 +15,30 @@ Bônus – prioridade de tarefas: ao visualizar as tarefas, o sistema deve apres
 4. Concluir tarefas: os usuários podem marcar uma tarefa específica como concluída.
 5. Exclusão de tarefas: os usuários podem excluir uma tarefa específica da lista de afazeres.
 6. Menu de opções: o sistema deve interagir com o usuário através de um menu de opções para facilitar a sua usabilidade.
+
+
+(ENG)
+# Task Management System
+## Description
+(ENG) Simple task management system in python
+
+Algorithm class assignment with the objective of developing a Python program that allows users to create, view, update, mark as completed, and delete tasks from a to-do list.
+
+## The system must have the following characteristics:
+
+1. Adding tasks: users must be able to add new tasks to a to-do list.
+
+Each task must contain an identifier – a number such that there are no different tasks with the same identifier, a description, a time limit (in hours) to be completed and a status (completed or active).
+
+Every new task, when registered by the user, has an active status.
+
+2. Viewing tasks: users can view all tasks present in the list, only active tasks, or only completed tasks.
+
+Regardless of the type of view chosen, all the characteristics of each task must be presented in a clear and organized manner.
+Bonus – task priority: when viewing tasks, the system should display active tasks first (before completed ones) and, among active tasks, the system should display them in ascending order by task time limit. This functionality/ordering should be applied both to viewing all tasks and to viewing only active tasks.
+3. Update tasks: users can change the data of a task, with the exception of its identifier.
+4. Complete tasks: users can mark a specific task as completed.
+5. Deleting tasks: users can delete a specific task from the to-do list.
+6. Options menu: the system should interact with the user through an options menu to facilitate its usability.
 
 
